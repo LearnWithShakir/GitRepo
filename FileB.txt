@@ -1,2 +1,1 @@
-This is FileB
-From Branch1
+This is FileB.
