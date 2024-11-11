@@ -1,1 +1,2 @@
 This is FileB
+From Branch1
